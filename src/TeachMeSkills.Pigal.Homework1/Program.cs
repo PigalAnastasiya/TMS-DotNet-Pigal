@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 namespace TeachMeSkills.Pigal.Homework1
 {
@@ -6,7 +6,7 @@ namespace TeachMeSkills.Pigal.Homework1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, Pigal A.!");
         }
     }
 }
