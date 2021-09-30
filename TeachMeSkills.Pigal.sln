@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homewor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Pigal.Homework3.1", "src\TeachMeSkills.Pigal.Homework3.1\TeachMeSkills.Pigal.Homework3.1.csproj", "{561AEC9C-5FEB-4584-8EC7-F7957686CE7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Pigal.Homework3.2", "src\TeachMeSkills.Pigal.Homework3.2\TeachMeSkills.Pigal.Homework3.2.csproj", "{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{561AEC9C-5FEB-4584-8EC7-F7957686CE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{561AEC9C-5FEB-4584-8EC7-F7957686CE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{561AEC9C-5FEB-4584-8EC7-F7957686CE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
