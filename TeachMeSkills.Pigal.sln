@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homewor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homework1", "src\TeachMeSkills.Pigal.Homework1\TeachMeSkills.Pigal.Homework1.csproj", "{71F8F46E-0530-4284-8588-9A89461ABA7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Pigal.Homework3.1", "src\TeachMeSkills.Pigal.Homework3.1\TeachMeSkills.Pigal.Homework3.1.csproj", "{561AEC9C-5FEB-4584-8EC7-F7957686CE7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homework3.1", "src\TeachMeSkills.Pigal.Homework3.1\TeachMeSkills.Pigal.Homework3.1.csproj", "{561AEC9C-5FEB-4584-8EC7-F7957686CE7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Pigal.Homework3.2", "src\TeachMeSkills.Pigal.Homework3.2\TeachMeSkills.Pigal.Homework3.2.csproj", "{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homework3.2", "src\TeachMeSkills.Pigal.Homework3.2\TeachMeSkills.Pigal.Homework3.2.csproj", "{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Pigal.Homework3.3", "src\TeachMeSkills.Pigal.Homework3.3\TeachMeSkills.Pigal.Homework3.3.csproj", "{66CD06BE-34D8-4383-A44F-440F957158B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D634C06-E12E-4B9D-BDEB-15101CAE2FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CD06BE-34D8-4383-A44F-440F957158B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CD06BE-34D8-4383-A44F-440F957158B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CD06BE-34D8-4383-A44F-440F957158B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CD06BE-34D8-4383-A44F-440F957158B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
