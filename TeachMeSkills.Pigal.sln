@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homewor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homework4", "src\TeachMeSkills.Pigal.Homework4\TeachMeSkills.Pigal.Homework4.csproj", "{86C8131F-B100-4F10-AF08-A9F4199BEA12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Pigal.Homework5", "src\TeachMeSkills.Pigal.Homework5\TeachMeSkills.Pigal.Homework5.csproj", "{58D87891-029C-4D62-B1CC-3ED859A6D208}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{86C8131F-B100-4F10-AF08-A9F4199BEA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86C8131F-B100-4F10-AF08-A9F4199BEA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86C8131F-B100-4F10-AF08-A9F4199BEA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D87891-029C-4D62-B1CC-3ED859A6D208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D87891-029C-4D62-B1CC-3ED859A6D208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D87891-029C-4D62-B1CC-3ED859A6D208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D87891-029C-4D62-B1CC-3ED859A6D208}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
