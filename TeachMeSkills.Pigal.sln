@@ -15,7 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homewor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homework4", "src\TeachMeSkills.Pigal.Homework4\TeachMeSkills.Pigal.Homework4.csproj", "{86C8131F-B100-4F10-AF08-A9F4199BEA12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Pigal.Homework5", "src\TeachMeSkills.Pigal.Homework5\TeachMeSkills.Pigal.Homework5.csproj", "{58D87891-029C-4D62-B1CC-3ED859A6D208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Pigal.Homework5", "src\TeachMeSkills.Pigal.Homework5\TeachMeSkills.Pigal.Homework5.csproj", "{58D87891-029C-4D62-B1CC-3ED859A6D208}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TeachMeSkills.Pigal.Homework7", "TeachMeSkills.Pigal.Homework7", "{020D8A3C-7F5B-4940-B18B-D9A6A8489433}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fitness.Date", "src\TeachMeSkills.Pigal.Homework7\Fitness_library\Fitness.Date.csproj", "{9978B852-3F2F-495C-AD4D-6C5901309018}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fitness.Console", "src\TeachMeSkills.Pigal.Homework7\Fitness_Interface\Fitness.Console.csproj", "{D09B8728-8E2B-4934-A4E4-A5D9096E59C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness. Logic", "src\TeachMeSkills.Pigal.Homework7\Fitness. Logic\Fitness. Logic.csproj", "{1C240934-E14F-48A2-9A32-7AF498CCDF55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,9 +59,26 @@ Global
 		{58D87891-029C-4D62-B1CC-3ED859A6D208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58D87891-029C-4D62-B1CC-3ED859A6D208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58D87891-029C-4D62-B1CC-3ED859A6D208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9978B852-3F2F-495C-AD4D-6C5901309018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9978B852-3F2F-495C-AD4D-6C5901309018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9978B852-3F2F-495C-AD4D-6C5901309018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9978B852-3F2F-495C-AD4D-6C5901309018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09B8728-8E2B-4934-A4E4-A5D9096E59C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09B8728-8E2B-4934-A4E4-A5D9096E59C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09B8728-8E2B-4934-A4E4-A5D9096E59C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09B8728-8E2B-4934-A4E4-A5D9096E59C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C240934-E14F-48A2-9A32-7AF498CCDF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C240934-E14F-48A2-9A32-7AF498CCDF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C240934-E14F-48A2-9A32-7AF498CCDF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C240934-E14F-48A2-9A32-7AF498CCDF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9978B852-3F2F-495C-AD4D-6C5901309018} = {020D8A3C-7F5B-4940-B18B-D9A6A8489433}
+		{D09B8728-8E2B-4934-A4E4-A5D9096E59C7} = {020D8A3C-7F5B-4940-B18B-D9A6A8489433}
+		{1C240934-E14F-48A2-9A32-7AF498CCDF55} = {020D8A3C-7F5B-4940-B18B-D9A6A8489433}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB105632-B7A6-40D5-B207-9222236DB2C3}
